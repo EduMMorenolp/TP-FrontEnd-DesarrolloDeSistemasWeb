@@ -11,17 +11,14 @@
             "id": "043c85cfca949601",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Canvas/Canvas-Tareas.canvas",
-                "viewState": {
-                  "x": 550.7479037061847,
-                  "y": 1052.4649161867098,
-                  "zoom": -1.4901751420684053
-                }
+                "file": "trabajo.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Canvas-Tareas"
+              "icon": "lucide-file",
+              "title": "trabajo"
             }
           },
           {
@@ -203,9 +200,12 @@
   },
   "active": "043c85cfca949601",
   "lastOpenFiles": [
+    "Tareas.md",
+    "README.md",
+    "INDEX.md",
+    "Canvas/Canvas-Tareas.canvas",
     "Sprints/Sprint-0-Setup-Kanban.md",
     "Sprints/Sprint-0-Setup.md",
-    "Canvas/Canvas-Tareas.canvas",
     "Kanban/Kanban-Tareas.md",
     "Sprints/Sprint-6-Docs-Kanban.md",
     "Sprints/Sprint-5-Assets-Kanban.md",
@@ -217,8 +217,6 @@
     "Sprints/Sprint-5-Assets.md",
     "Sprints/Sprint-4-JS.md",
     "Canvas/Canvas-Documentacion.canvas",
-    "Tareas.md",
-    "INDEX.md",
     "Gestion/Reuniones/2026-04-08.md",
     "Proyecto-Core/Overview.md",
     "Referencia/Convenciones.md",
