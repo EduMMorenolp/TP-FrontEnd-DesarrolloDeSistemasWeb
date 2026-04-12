@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "25e9d7f065c3d798",
+        "id": "13261a6a599cef92",
         "type": "tabs",
         "children": [
           {
-            "id": "043c85cfca949601",
+            "id": "0c6f344abec3c5e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "trabajo.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "trabajo"
-            }
-          },
-          {
-            "id": "4a09dcf347221d54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sprints/Sprint-0-Setup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sprint-0-Setup"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -198,14 +180,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "043c85cfca949601",
+  "active": "0c6f344abec3c5e5",
   "lastOpenFiles": [
+    "Sprints/Sprint-0-Setup.md",
+    "Canvas/Canvas-Documentacion.canvas",
+    "Canvas/Canvas-Tareas.canvas",
+    "INDEX.md",
+    "trabajo.md",
     "Tareas.md",
     "README.md",
-    "INDEX.md",
-    "Canvas/Canvas-Tareas.canvas",
     "Sprints/Sprint-0-Setup-Kanban.md",
-    "Sprints/Sprint-0-Setup.md",
     "Kanban/Kanban-Tareas.md",
     "Sprints/Sprint-6-Docs-Kanban.md",
     "Sprints/Sprint-5-Assets-Kanban.md",
@@ -216,7 +200,6 @@
     "Sprints/Sprint-6-Docs.md",
     "Sprints/Sprint-5-Assets.md",
     "Sprints/Sprint-4-JS.md",
-    "Canvas/Canvas-Documentacion.canvas",
     "Gestion/Reuniones/2026-04-08.md",
     "Proyecto-Core/Overview.md",
     "Referencia/Convenciones.md",
