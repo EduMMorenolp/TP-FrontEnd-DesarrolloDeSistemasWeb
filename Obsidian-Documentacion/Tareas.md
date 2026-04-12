@@ -26,7 +26,6 @@ Vista unica del estado general del proyecto.
 
 ## Referencias rapidas
 
-- [Kanban de tareas](Kanban/Kanban-Tareas.md)
 - [README del vault](README.md)
 - [Canvas de tareas](Canvas/Canvas-Tareas.canvas)
 - [Sprint 0](Sprints/Sprint-0-Setup.md)
@@ -40,5 +39,5 @@ Vista unica del estado general del proyecto.
 ## Criterio de uso
 
 - Usar esta nota para ver estado global.
-- Usar Kanban para operacion diaria.
+- Usar el Kanban del sprint activo para operacion diaria.
 - Usar notas de sprint para detalle de avance y bloqueos.

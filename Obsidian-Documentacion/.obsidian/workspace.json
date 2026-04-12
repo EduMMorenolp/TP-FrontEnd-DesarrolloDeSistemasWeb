@@ -4,24 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "948c7a22aeaf2a3c",
+        "id": "25e9d7f065c3d798",
         "type": "tabs",
         "children": [
           {
-            "id": "0eed9f76a160ddc0",
+            "id": "043c85cfca949601",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Canvas/Canvas-Documentacion.canvas",
+                "file": "Canvas/Canvas-Tareas.canvas",
                 "viewState": {
-                  "x": 1038.498150789369,
-                  "y": 291.32966714208646,
-                  "zoom": -1.2448645454710194
+                  "x": 550.7479037061847,
+                  "y": 1052.4649161867098,
+                  "zoom": -1.4901751420684053
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Canvas-Documentacion"
+              "title": "Canvas-Tareas"
+            }
+          },
+          {
+            "id": "4a09dcf347221d54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sprints/Sprint-0-Setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sprint-0-Setup"
             }
           }
         ]
@@ -187,16 +201,26 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "0eed9f76a160ddc0",
+  "active": "043c85cfca949601",
   "lastOpenFiles": [
+    "Sprints/Sprint-0-Setup-Kanban.md",
+    "Sprints/Sprint-0-Setup.md",
     "Canvas/Canvas-Tareas.canvas",
+    "Kanban/Kanban-Tareas.md",
+    "Sprints/Sprint-6-Docs-Kanban.md",
+    "Sprints/Sprint-5-Assets-Kanban.md",
+    "Sprints/Sprint-4-JS-Kanban.md",
+    "Sprints/Sprint-3-Estilos-Kanban.md",
+    "Sprints/Sprint-2-Individuales-Kanban.md",
+    "Sprints/Sprint-1-Core-Kanban.md",
+    "Sprints/Sprint-6-Docs.md",
+    "Sprints/Sprint-5-Assets.md",
+    "Sprints/Sprint-4-JS.md",
     "Canvas/Canvas-Documentacion.canvas",
     "Tareas.md",
     "INDEX.md",
-    "Kanban/Kanban-Tareas.md",
     "Gestion/Reuniones/2026-04-08.md",
     "Proyecto-Core/Overview.md",
-    "Sprints/Sprint-0-Setup.md",
     "Referencia/Convenciones.md",
     "wiki/_master-index.md",
     "img/Pasted image 20260408210208.png",

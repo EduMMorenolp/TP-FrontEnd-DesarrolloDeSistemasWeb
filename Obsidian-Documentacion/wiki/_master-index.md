@@ -16,5 +16,4 @@ Indice central del conocimiento del proyecto.
 ## Integracion con el proyecto
 
 - [INDEX principal](../INDEX.md)
-- [INDEX principal](../INDEX.md)
-- [Kanban canónico](../Kanban/Kanban-Tareas.md)
+- [Kanban Sprint 0](../Sprints/Sprint-0-Setup-Kanban.md)
