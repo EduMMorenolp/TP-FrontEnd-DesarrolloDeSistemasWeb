@@ -1,31 +1,5 @@
 # OS
-.DS_Store
-Thumbs.db
 desktop.ini
-$RECYCLE.BIN/
-
-# Logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-
-# Env
-.env
-.env.*
-!.env.example
-
-# Dependencies
-node_modules/
-
-# Build output
-dist/
-build/
-coverage/
-.next/
-out/
-.vercel/
 
 # Editor / IDE
 .vscode/
@@ -34,13 +8,9 @@ out/
 *.swo
 
 # Obsidian local/workspace state
-Obsidian-Documentacion/.obsidian/workspace.json
-Obsidian-Documentacion/.obsidian/cache/
-Obsidian-Documentacion/.obsidian/workspaces.json
-
-# Python (if used in scripts)
-__pycache__/
-*.pyc
+Documentacion/.obsidian/workspace.json
+Documentacion/.obsidian/cache/
+Documentacion/.obsidian/workspaces.json
 
 # Generic temp
 *.tmp
