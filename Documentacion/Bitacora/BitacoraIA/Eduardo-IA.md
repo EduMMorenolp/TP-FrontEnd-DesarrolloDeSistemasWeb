@@ -12,17 +12,6 @@ updated: 2026-04-16
 Esta bitacora se mantiene en formato changelog.
 Cada entrada representa un cambio puntual realizado con asistencia de IA.
 
-## Plantilla de uso 
-
-### [YYYY-MM-DD] Titulo breve del cambio
-- Tipo:
-- Modelo:
-- Herramienta:
-- Archivos impactados:
-- Cambio:
-- Impacto:
-- Validacion manual:
-
 ## Changelog
 
 ### [2026-04-16] Estandarizacion de consigna en Markdown
@@ -109,3 +98,21 @@ Cada entrada representa un cambio puntual realizado con asistencia de IA.
   - Coherencia entre codigo y documentacion de arquitectura.
 - Validacion manual:
   - Enlaces y referencias actualizadas en las paginas base.
+
+### [2026-04-16] Limpieza de grafo y enlaces de Obsidian
+
+- Tipo: Documentacion Obsidian.
+- Modelo: GPT-5.3-Codex.
+- Herramienta: GitHub Copilot Chat.
+- Archivos impactados:
+  - `Documentacion/Index-Principal.md`
+  - `Documentacion/Bitacora/Index-Bitacora.md`
+  - `Documentacion/Bitacora/BitacoraIA/Index-BitacoraIA.md`
+- Cambio:
+  - Se corrigieron referencias tras reestructurar y eliminar documentos redundantes.
+  - Se eliminaron enlaces cruzados entre indices para dejar un grafo mas jerarquico y legible.
+- Impacto:
+  - Reduccion de nodos sueltos y mejor lectura visual del grafo en Obsidian.
+  - Navegacion interna mas clara entre index principal, bitacora e indice de IA.
+- Validacion manual:
+  - Se reviso visualmente el grafo y se confirmo mejora de la estructura.
