@@ -28,7 +28,7 @@ Alinear al equipo en tres frentes antes de programar:
 
 ### Gestion del equipo
 
-- [[Bitacora/Index-Bitacora]]
+- [[Bitacora/Bitacora/Index-Bitacora]]
 - [[Bitacora/BitacoraIA/Index-BitacoraIA]]
 
 ### Plan de arranque

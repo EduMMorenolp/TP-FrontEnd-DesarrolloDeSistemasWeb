@@ -10,15 +10,15 @@ Checklist operativo para transformar la consigna en decisiones concretas del equ
 
 ## 1. Estructura y navegacion
 
-- [ ] Definir nombres finales de todas las paginas HTML de integrantes.
-- [ ] Definir estructura de navegacion comun (header, menu y botones volver/continuar).
+- [x] Definir nombres finales de todas las paginas HTML de integrantes.
+- [x] Definir estructura de navegacion comun (header, menu y botones volver/continuar).
 - [ ] Confirmar si la bitacora sera pagina unica o con secciones internas.
-- [ ] Definir carpeta final de imagenes para entrega (`img`) y plan de migracion desde `Documentacion/Imagenes`.
-- [ ] Confirmar convencion de nombres para CSS/JS (ejemplo: `style.css` y `main.js` o mantener `styleGlobal.css` y `scripts.js`).
+- [x] Definir carpeta final de imagenes para entrega (`img`) y plan de migracion desde `Documentacion/Imagenes`.
+- [x] Confirmar convencion de nombres para CSS/JS (ejemplo: `style.css` y `main.js` o mantener `styleGlobal.css` y `scripts.js`).
 
 ## 2. Contenido obligatorio por integrante
 
-- [ ] Definir plantilla comun de tarjeta (foto, nombre, ubicacion, edad, 4 habilidades, 3 peliculas, 3 discos).
+- [x] Definir plantilla comun de tarjeta (foto, nombre, ubicacion, edad, 4 habilidades, 3 peliculas, 3 discos).
 - [ ] Definir tono y longitud del texto personal para mantener consistencia.
 - [ ] Confirmar origen de avatares/imagenes por privacidad (IA, ilustraciones o fotos no personales).
 
@@ -26,15 +26,15 @@ Checklist operativo para transformar la consigna en decisiones concretas del equ
 
 - [ ] Cerrar paleta hex definitiva (fondos, texto, acentos).
 - [ ] Elegir tipografias Google Fonts para titulos y cuerpo.
-- [ ] Definir sistema de espaciado y tamanos base (margenes, paddings, tipografia).
-- [ ] Definir componentes visuales reutilizables (cards, botones, navbar, secciones).
+- [x] Definir sistema de espaciado y tamanos base (margenes, paddings, tipografia).
+- [x] Definir componentes visuales reutilizables (cards, botones, navbar, secciones).
 
 ## 4. Responsive obligatorio
 
-- [ ] Definir comportamiento para 400px (mobile pequeno).
-- [ ] Definir comportamiento para 900px (tablet/mediano).
-- [ ] Definir comportamiento para 1200px (desktop grande).
-- [ ] Definir criterio para evitar desbordes y superposiciones.
+- [x] Definir comportamiento para 400px (mobile pequeno).
+- [x] Definir comportamiento para 900px (tablet/mediano).
+- [x] Definir comportamiento para 1200px (desktop grande).
+- [x] Definir criterio para evitar desbordes y superposiciones.
 
 ## 5. JavaScript obligatorio
 
@@ -52,9 +52,9 @@ Checklist operativo para transformar la consigna en decisiones concretas del equ
 
 ## 7. Uso de IA (obligatorio)
 
-- [ ] Definir plantilla de registro de prompts y resultados.
-- [ ] Registrar herramientas y modelos usados durante contenido, codigo y visuales.
-- [ ] Definir criterio de autoria para dejar claro que el equipo valida y ajusta todo.
+- [x] Definir plantilla de registro de prompts y resultados.
+- [x] Registrar herramientas y modelos usados durante contenido, codigo y visuales.
+- [x] Definir criterio de autoria para dejar claro que el equipo valida y ajusta todo.
 
 ## Prioridad para iniciar desarrollo
 

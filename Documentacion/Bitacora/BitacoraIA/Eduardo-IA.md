@@ -134,3 +134,24 @@ Cada entrada representa un cambio puntual realizado con asistencia de IA.
   - Facilita mantener y auditar la bitacora de forma progresiva.
 - Validacion manual:
   - Se verifico que la minuta conserva toda la informacion original y ahora sigue el formato estandar.
+
+### [2026-04-16] Actualizacion integral de documentacion de proyecto
+
+- Tipo: Documentacion tecnica.
+- Modelo: GPT-5.3-Codex.
+- Herramienta: GitHub Copilot Chat.
+- Archivos impactados:
+  - `Documentacion/Proyecto-Core/Arquitectura.md`
+  - `Documentacion/Index-Principal.md`
+  - `Documentacion/Proyecto-Core/Estilo-Visual.md`
+  - `Documentacion/Proyecto-Core/Consignas-Faltantes-Por-Definir.md`
+- Cambio:
+  - Se alineo Arquitectura con la estructura real de `Documentacion` (Index-Principal y carpeta Bitacora).
+  - Se corrigio el enlace del index principal al indice real de bitacora.
+  - Se documento el estado visual implementado en CSS (paleta, componentes y responsive).
+  - Se actualizaron checks de consignas segun avances ya implementados en codigo y bitacora.
+- Impacto:
+  - Documentacion coherente con el estado actual del proyecto.
+  - Menor riesgo de confusion entre estructura declarada y estructura real.
+- Validacion manual:
+  - Se revisaron archivos actualizados y consistencia de rutas internas en Obsidian.

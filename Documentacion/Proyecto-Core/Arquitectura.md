@@ -12,17 +12,23 @@ updated: 2026-04-16
 TP-FrontEnd-DesarrolloDeSistemasWeb/
 ├─ README.md
 ├─ Documentacion/
-│  ├─ Index.md
+│  ├─ Index-Principal.md
 │  ├─ Consigna TP1 - Markdown.md
 │  ├─ Proyecto-Core/
 │  │  ├─ Overview.md
 │  │  ├─ Arquitectura.md
 │  │  ├─ Estilo-Visual.md
 │  │  └─ Consignas-Faltantes-Por-Definir.md
-│  ├─ Gestion/
-│  │  ├─ Decisiones.md
-│  │  ├─ Registro-IA.md
-│  │  └─ Reuniones/
+│  ├─ Bitacora/
+│  │  ├─ Bitacora/
+│  │  │  ├─ Index-Bitacora.md
+│  │  │  └─ YYYY-MM-DD.md
+│  │  └─ BitacoraIA/
+│  │     ├─ Index-BitacoraIA.md
+│  │     ├─ Eduardo-IA.md
+│  │     ├─ Leandro-IA.md
+│  │     ├─ Marcelo-IA.md
+│  │     └─ Melisa-IA.md
 │  └─ Imagenes/
 └─ Proyecto/
 	├─ index.html
@@ -64,6 +70,8 @@ TP-FrontEnd-DesarrolloDeSistemasWeb/
 - Se usa un solo script global: `js/main.js`.
 - Imagenes de entrega solo en `Proyecto/img`.
 - Nombres de archivos en minuscula y sin espacios.
+- Las minutas de reunion usan formato `YYYY-MM-DD.md`.
+- Cada cambio asistido por IA se registra en `Documentacion/Bitacora/BitacoraIA/`.
 
 ## Regla de trabajo
 
