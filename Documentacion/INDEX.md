@@ -35,14 +35,6 @@ Alinear al equipo en tres frentes antes de programar:
 
 - [[Proyecto-Core/Consignas-Faltantes-Por-Definir]]
 
-## Estado recomendado de avance
-
-- [ ] Consignas faltantes definidas y aprobadas por el equipo.
-- [ ] Estructura final de archivos confirmada.
-- [ ] Sistema de navegacion comun definido para todas las paginas.
-- [ ] Guia visual minima cerrada (paleta, tipografias, estilo base).
-- [ ] Plan de contenidos por integrante validado.
-
 ## Criterio de trabajo
 
 Toda decision importante debe registrarse antes de implementarse para evitar retrabajo. Si cambia una definicion, actualizar primero la nota correspondiente y luego el codigo.
