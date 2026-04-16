@@ -1,0 +1,109 @@
+:root {
+	--bg: #f5efe4;
+	--surface: #fffaf1;
+	--ink: #2f1f14;
+	--accent: #a13f2a;
+	--accent-2: #d07a2d;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	font-family: "Trebuchet MS", "Segoe UI", sans-serif;
+	background: linear-gradient(180deg, #efe2c8 0%, var(--bg) 100%);
+	color: var(--ink);
+}
+
+.site-header {
+	padding: 1.5rem 1rem 1rem;
+	background-color: #2a1a10;
+	color: #fcefd8;
+}
+
+.site-header h1 {
+	margin: 0;
+}
+
+.site-nav {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.5rem;
+	margin-top: 0.75rem;
+}
+
+.site-nav a {
+	text-decoration: none;
+	color: #fcefd8;
+	background: rgba(255, 255, 255, 0.12);
+	padding: 0.4rem 0.7rem;
+	border-radius: 8px;
+}
+
+.site-nav a[aria-current="page"] {
+	background: var(--accent);
+}
+
+.container {
+	width: min(1100px, 92%);
+	margin: 1.5rem auto;
+	display: grid;
+	gap: 1rem;
+}
+
+.card {
+	background: var(--surface);
+	border: 1px solid #d9c9ab;
+	border-radius: 12px;
+	padding: 1rem;
+	box-shadow: 0 8px 18px rgba(40, 24, 15, 0.08);
+}
+
+.member-list {
+	margin: 0;
+	padding-left: 1rem;
+}
+
+.btn {
+	border: 0;
+	background: var(--accent);
+	color: #fff;
+	padding: 0.6rem 1rem;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+.btn:hover {
+	background: var(--accent-2);
+}
+
+.hint {
+	min-height: 1.2rem;
+	margin-top: 0.7rem;
+	font-weight: 600;
+}
+
+@media (max-width: 1200px) {
+	.container {
+		width: 94%;
+	}
+}
+
+@media (max-width: 900px) {
+	.site-header {
+		text-align: center;
+	}
+
+	.site-nav {
+		justify-content: center;
+	}
+}
+
+@media (max-width: 400px) {
+	.site-nav a {
+		width: 100%;
+		text-align: center;
+	}
+}

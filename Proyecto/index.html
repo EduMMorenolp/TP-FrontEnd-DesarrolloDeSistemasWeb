@@ -1,15 +1,47 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    // CSS
-    <link rel="stylesheet" href="css/styleGlobal.css">
+    <title>Clouds Guild - TP1</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <h1>Hola Mundo</h1>
-    // JS
-    <script src="js/scripts.js"></script>
+    <header class="site-header">
+        <h1>Clouds Guild</h1>
+        <p>Equipo de frontend - presentacion TP1</p>
+        <nav class="site-nav" aria-label="Navegacion principal">
+            <a href="index.html" aria-current="page">Inicio</a>
+            <a href="bitacora.html">Bitacora</a>
+            <a href="eduardo.html">Eduardo</a>
+            <a href="leandro.html">Leandro</a>
+            <a href="marcelo.html">Marcelo</a>
+            <a href="melisa.html">Melisa</a>
+        </nav>
+    </header>
+
+    <main class="container">
+        <section class="card">
+            <h2>Presentacion del equipo</h2>
+            <p>
+                Somos el equipo Clouds. En este TP construimos una portada, una bitacora de proceso
+                y una pagina individual por integrante.
+            </p>
+            <button id="portadaBtn" class="btn" type="button">Activar modo aventura</button>
+            <p id="portadaMensaje" class="hint" aria-live="polite"></p>
+        </section>
+
+        <section class="card">
+            <h2>Integrantes</h2>
+            <ul class="member-list">
+                <li><a href="eduardo.html">Eduardo</a></li>
+                <li><a href="leandro.html">Leandro</a></li>
+                <li><a href="marcelo.html">Marcelo</a></li>
+                <li><a href="melisa.html">Melisa</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <script src="js/main.js"></script>
 </body>
 </html>
