@@ -24,8 +24,8 @@ Checklist operativo para transformar la consigna en decisiones concretas del equ
 
 ## 3. Requerimientos visuales
 
-- [ ] Cerrar paleta hex definitiva (fondos, texto, acentos).
-- [ ] Elegir tipografias Google Fonts para titulos y cuerpo.
+- [x] Cerrar paleta hex definitiva (fondos, texto, acentos).
+- [x] Elegir tipografias Google Fonts para titulos y cuerpo.
 - [x] Definir sistema de espaciado y tamanos base (margenes, paddings, tipografia).
 - [x] Definir componentes visuales reutilizables (cards, botones, navbar, secciones).
 
